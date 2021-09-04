@@ -2744,7 +2744,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Player Wins!
+  m_Text: It's a draw!
 --- !u!222 &1327980514
 CanvasRenderer:
   m_ObjectHideFlags: 0
