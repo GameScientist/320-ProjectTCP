@@ -214,7 +214,7 @@ GameObject:
   - component: {fileID: 138725782}
   - component: {fileID: 138725781}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Player 2 Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -272,7 +272,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: Player 2
 --- !u!222 &138725782
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -445,7 +445,7 @@ GameObject:
   - component: {fileID: 260819181}
   - component: {fileID: 260819180}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Player 2 Upper Total Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -503,7 +503,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: 0
 --- !u!222 &260819181
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -835,7 +835,7 @@ GameObject:
   - component: {fileID: 408977662}
   - component: {fileID: 408977661}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Player 1 Bonus Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -893,7 +893,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: 0
 --- !u!222 &408977662
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1072,7 +1072,7 @@ GameObject:
   - component: {fileID: 662814214}
   - component: {fileID: 662814213}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Player 2 Bonus Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1130,7 +1130,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: 0
 --- !u!222 &662814214
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1227,7 +1227,7 @@ GameObject:
   - component: {fileID: 706926493}
   - component: {fileID: 706926492}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Player 1 Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1285,7 +1285,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: Player 1
 --- !u!222 &706926493
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1382,7 +1382,7 @@ GameObject:
   - component: {fileID: 742124396}
   - component: {fileID: 742124395}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Player 1 Grand Total Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1440,7 +1440,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: 0
 --- !u!222 &742124396
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1537,7 +1537,7 @@ GameObject:
   - component: {fileID: 892432315}
   - component: {fileID: 892432314}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Points Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1595,7 +1595,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: Score
 --- !u!222 &892432315
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2155,7 +2155,7 @@ GameObject:
   - component: {fileID: 1226795874}
   - component: {fileID: 1226795873}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Lower Total Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2213,7 +2213,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: Lower Total
 --- !u!222 &1226795874
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2541,7 +2541,7 @@ GameObject:
   - component: {fileID: 1530263525}
   - component: {fileID: 1530263524}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Player 2 Lower Total Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2599,7 +2599,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: 0
 --- !u!222 &1530263525
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2824,7 +2824,7 @@ GameObject:
   - component: {fileID: 1718960609}
   - component: {fileID: 1718960608}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Grand Total Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2882,7 +2882,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: Grand Total
 --- !u!222 &1718960609
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3234,7 +3234,7 @@ GameObject:
   - component: {fileID: 1882372149}
   - component: {fileID: 1882372148}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Player 2 Grand Total Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3292,7 +3292,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: 0
 --- !u!222 &1882372149
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3313,7 +3313,7 @@ GameObject:
   - component: {fileID: 1914285355}
   - component: {fileID: 1914285354}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Player 1 Upper Total Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3371,7 +3371,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: 0
 --- !u!222 &1914285355
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3458,7 +3458,7 @@ GameObject:
   - component: {fileID: 1942894725}
   - component: {fileID: 1942894724}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Upper Total Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3516,7 +3516,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: Upper Total
 --- !u!222 &1942894725
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3537,7 +3537,7 @@ GameObject:
   - component: {fileID: 2108473635}
   - component: {fileID: 2108473634}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Bonus Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3595,7 +3595,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: Bonus
 --- !u!222 &2108473635
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3616,7 +3616,7 @@ GameObject:
   - component: {fileID: 2133784106}
   - component: {fileID: 2133784105}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Player 1 Lower Total Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3674,7 +3674,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: 0
 --- !u!222 &2133784106
 CanvasRenderer:
   m_ObjectHideFlags: 0
